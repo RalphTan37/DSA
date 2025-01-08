@@ -1,0 +1,5 @@
+In the terminal, enter 
+```
+g++ -o  output_file file_name.cpp
+```
+to compile the C++ Program File.
